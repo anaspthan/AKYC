@@ -78,7 +78,7 @@ export default function Landing() {
             <div style={{ fontSize: '64px', marginBottom: '16px' }}>📶</div>
             <h3 style={{ marginBottom: '12px' }}>Works on 2G</h3>
             <p style={{ color: 'var(--text-light)', lineHeight: '1.8' }}>
-              Extreme low-bandwidth mode uses <100kb/s. Perfect for emerging markets and remote areas.
+              Extreme low-bandwidth mode uses &lt;100kb/s. Perfect for emerging markets and remote areas.
             </p>
           </div>
 
@@ -110,7 +110,7 @@ export default function Landing() {
             <div style={{ fontSize: '64px', marginBottom: '16px' }}>⚡</div>
             <h3 style={{ marginBottom: '12px' }}>Lightning Fast</h3>
             <p style={{ color: 'var(--text-light)', lineHeight: '1.8' }}>
-              Average verification time: 45 seconds. API response time: <200ms. Built for speed.
+              Average verification time: 45 seconds. API response time: &lt;200ms. Built for speed.
             </p>
           </div>
         </div>
