@@ -1,0 +1,38 @@
+Company,Contact Name,Email,Phone,Source,Niche,Outreach Date,Status,Last Contact,Next Action,Notes,Priority
+CryptoExchange XYZ,John Doe,john@cryptoxyz.com,,LinkedIn,Crypto,2025-01-05,Warm,2025-01-08,Send demo,Interested in beta - has 40% drop-off,High
+Remit Global,Jane Smith,jane@remitglobal.com,+1234567890,Telegram,Remittance,2025-01-06,Hot,2025-01-09,Schedule call,Wants 1k free tests,High
+FinTech Africa,Bob Johnson,bob@fintechafrica.io,,WhatsApp,Low-bandwidth,2025-01-07,Cold,2025-01-07,Follow up in 3 days,No response yet,Medium
+
+# Status Options:
+# - New: Haven't contacted yet
+# - Reached Out: Initial message sent
+# - Warm: Responded, interested
+# - Hot: Want to beta test / buy
+# - Cold: No response / not interested
+# - Customer: Paying customer
+# - Not a Fit: Wrong use case
+
+# Priority:
+# - High: Hot lead, should close
+# - Medium: Warm, needs nurturing
+# - Low: Long-term prospect
+
+# Source Options:
+# - LinkedIn
+# - Telegram
+# - Discord
+# - WhatsApp
+# - Twitter
+# - Referral
+# - IndieHackers
+# - Reddit
+# - Cold email
+
+# Niche:
+# - Crypto
+# - Remittance
+# - Low-bandwidth
+# - General fintech
+# - Gaming
+# - Dating apps
+# - Other
