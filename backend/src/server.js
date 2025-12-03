@@ -23,7 +23,8 @@ app.use(morgan('dev'));
 app.use(cors({
   origin: [
     process.env.FRONTEND_URL || 'http://localhost:5173',
-    'https://kyc-frontend-production.up.railway.app',
+    'https://692efef3e69a15b0003fe61b--joyful-druid-759b65.netlify.app',
+    'https://joyful-druid-759b65.netlify.app',
     'http://localhost:5173'
   ],
   credentials: true
